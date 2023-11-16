@@ -16,8 +16,10 @@ Open the `index.html` file on your browser to run the application.
 
 Write your code in the `src/index.js` file.
 
+## What You Already Have
+
+In `src/index.js`, there are burger names provided in an array stored in a variable named `burgerNames`.
+
 ## Deliverable
 
-As a user, I can:
-
-- See all of the burger names in a `div` with the id of `restaurant-menu`. Create a `span` tag with the name of the burger and add it to the `div#restaurant-menu`. The burger names are provided in an array stored in a variable named `burgerNames`.
+- For each of the burger names in the `burgerNames` array, create a `span` tag with the name of the burger and add it to the `div` element with the id of `restaurant-menu`.
